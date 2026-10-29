@@ -21,5 +21,4 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/denislike19?color=blue&style=flat-square">
   <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/denislike19?color=blue&style=flat-square">
   <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/denislike19?color=blue&style=flat-square">
-<a href="readme-fa.md"><img alt="Static Badge" src="https://img.shields.io/badge/translation-farsi-blue?style=flat-square"></a>
 </p>
